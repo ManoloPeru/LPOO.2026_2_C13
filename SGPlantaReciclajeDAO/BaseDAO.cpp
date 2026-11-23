@@ -124,8 +124,7 @@ void BaseDAO::abrirConexion() {
 
 	/*PUCP*/
 	//this->objConexion->ConnectionString = "Server={IP};DataBase={BD};User id={User};Password={PWD}";
-	this->objConexion->ConnectionString = "Server=200.16.7.140;DataBase=mchavez;User id=mchavez;Password=CsXyEPeqdXYt";
-
+	
 	/*AWS*/
 	//this->objConexion->ConnectionString = "Server={PORT_LINK};DataBase={DB};User id={USR};Password={PWD}";
 
